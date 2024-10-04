@@ -1,0 +1,13 @@
+package com.midhin.dev.capxbackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CapXBackendApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(CapXBackendApplication.class, args);
+    }
+
+}
