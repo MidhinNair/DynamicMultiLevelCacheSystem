@@ -13,7 +13,7 @@ Design and implement a dynamic multilevel caching system that efficiently manage
 - Thread-safe implementation (concurrency is considered).
 
 ## How to Run
-1. Compile the Java files in the `src` directory.
+1. Compile the Java files in the `com.midhin.dev.capxbackend.DynamicMultilevelCachingSystem` directory.
 2. Run the `Main` class to see sample operations.
 
 ## Example Usage
